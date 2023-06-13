@@ -44,10 +44,9 @@ Ensure that the module is properly imported, and you can then call the provided 
 This code, besides the code open sourced by NVIDIA is provided under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## NVIDIA (files) License
-# nvml.dll
-# nvml.lib
+- nvml.dll
+- nvml.lib
 
-/*
  * Copyright 1993-2020 NVIDIA Corporation.  All rights reserved.
  *
  * NOTICE TO USER:
@@ -114,5 +113,4 @@ On Linux the NVML library will be found on the standard library path. For 64 bit
 and 64 bit NVML libraries will be installed.
 
 Online documentation for this library is available at http://docs.nvidia.com/deploy/nvml-api/index.html
-*/
 
