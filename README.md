@@ -43,9 +43,11 @@ Ensure that the module is properly imported, and you can then call the provided 
 
 This code, besides the code open sourced by NVIDIA is provided under the [MIT License](https://opensource.org/licenses/MIT).
 
-## NVIDIA (files) License
-- nvml.dll
-- nvml.lib
+
+## NVIDIA Copyright Notice and License Agreement
+
+Files: nvml.dll and nvml.lib
+
 
  * Copyright 1993-2020 NVIDIA Corporation.  All rights reserved.
  *
@@ -81,7 +83,7 @@ This code, besides the code open sourced by NVIDIA is provided under the [MIT Li
  * the above Disclaimer and U.S. Government End Users Notice.
  */
 
-/*
+
 NVML API Reference
 
 The NVIDIA Management Library (NVML) is a C-based programmatic interface for monitoring and
