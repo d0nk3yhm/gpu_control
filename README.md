@@ -16,6 +16,7 @@ This is a Python wrapper for controlling GPU temperature and fan speed. It provi
 ## Usage
 
 Once the GPU Control Wrapper module is installed, you can use it in your Python code as follows:
+PS: You need to have elevated access to handle fan speed. ( run as administrator works )
 
 ```python
 import gpu_control
