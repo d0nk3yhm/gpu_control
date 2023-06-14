@@ -13,10 +13,15 @@ This is a Python wrapper for controlling GPU temperature and fan speed. It provi
     - nvml from NVIDIA is included in this package.
 
 
+## Installation
+
+pip install gpu_control-1.0.0-cp310-cp310-win_amd64.whl
+
 ## Usage
 
-Once the GPU Control Wrapper module is installed, you can use it in your Python code as follows:
-PS: You need to have elevated access to handle fan speed. ( run as administrator works )
+
+Once the GPU Control Wrapper module (whl) installed, you can use it in your Python code as follows:
+PS: You might need to have elevated access to handle fan speed. ( run as Administrator works )
 
 ```python
 import gpu_control
