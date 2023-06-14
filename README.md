@@ -1,4 +1,4 @@
-# NVIDIA GPU Fan Controller - (Python Wrapper)
+# NVIDIA GPU Fan Controller for Windows - (Python Wrapper)
 
 This is a Python wrapper for controlling NVIDIA GPUs temperature with fan speed. It provides convenient access to the following functions:
 
