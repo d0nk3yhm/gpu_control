@@ -15,7 +15,7 @@ This is a Python wrapper for controlling GPU temperature and fan speed. It provi
 
 ## Installation
 
-pip install gpu_control-1.0.0-cp310-cp310-win_amd64.whl
+pip install gpu_control.whl
 
 ## Usage
 
