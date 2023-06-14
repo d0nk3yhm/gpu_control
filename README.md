@@ -1,6 +1,6 @@
 # NVIDIA GPU Controller - (Python Wrapper)
 
-This is a Python wrapper for controlling GPU temperature and fan speed. It provides convenient access to the following functions:
+This is a Python wrapper for controlling NVIDIA GPUs temperature and fan speed. It provides convenient access to the following functions:
 
 - `get_temperature()`: Retrieves the current GPU temperature.
 - `set_fan_speed(speed)`: Sets the GPU fan speed to the specified value.
