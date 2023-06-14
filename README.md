@@ -52,7 +52,7 @@ This code, besides the code open sourced by NVIDIA is provided under the [MIT Li
 
 ## NVIDIA Copyright Notice and License Agreement
 
-Files: nvml.dll and nvml.lib
+Files: nvml.dll, nvml.lib and nvml.h
 
 
  * Copyright 1993-2020 NVIDIA Corporation.  All rights reserved.
