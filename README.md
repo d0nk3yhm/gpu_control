@@ -44,7 +44,7 @@ fan_speed = gpu_control.get_fan_speed()
 print("GPU fan speed:", fan_speed)
 ```
 
-Ensure that the module is properly imported, and you can then call the provided functions to control your GPU temperature and fan speed.
+Ensure that the module is properly imported, and you can then call the provided functions to control your GPU and fan speed.
 
 ## License
 
